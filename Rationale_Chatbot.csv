@@ -1,0 +1,16 @@
+﻿Corp Name,ID,Bubblegum Tax,Confectionary Sales Tax %,Taxable Income,Audit_Diff,Amount Taxable,Revenue,Salary,Flag_Salary_Revenue,Flag_Confectionary_Tax,Flag_Bubblegum_Tax,Flag_Audit_Outdated,Flagged,Rationale
+Candy Corp,100000,6281,12.74,413224,1.71,78513,513224,,1,1,0,0,2,High Confectionary Sales Tax ; Salary or Revenue is Blank
+Gum Co,100001,2548,14.38,1041579,0.75,120345,2041579,445480,0,1,0,0,1,High Confectionary Sales Tax
+Sweet Inc,100002,14587,9.46,1066955,2.92,174598,,492518,1,0,0,0,1,Salary or Revenue is Blank
+Choco Ltd,100003,65879,9.51,1460887,,156789,2560887,507124,0,0,1,0,1,Bubblegum Tax > Threshold
+Toffee Co,100004,321458,13.24,629325,,145698,1229325,412568,0,1,1,0,2,Bubblegum Tax > Threshold ; High Confectionary Sales Tax
+Lolly Corp,100005,100005,8.05,499296,,897456,,421014,1,0,1,0,2,Bubblegum Tax > Threshold ; Salary or Revenue is Blank
+Sugar Co,100006,36547,14.2,107245,,54789,657245,88639,0,1,0,0,1,High Confectionary Sales Tax
+Fudge Inc,100007,245789,9.97,108617,,65428,208617,11256,0,0,1,0,1,Bubblegum Tax > Threshold
+Taffy Ltd,100008,25478,8.51,103495,13.57,65478,503495,,1,0,0,1,2,Audit Overdue ; Salary or Revenue is Blank
+Treats Co,100009,14587,6.87,112922,22.35,12456,452922,4789,0,0,0,1,1,Audit Overdue
+Snack Inc,100010,568794,9.74,321278,0.82,36547,631278,4587,0,0,1,0,1,Bubblegum Tax > Threshold
+Minty Co,100011,98745,12.82,396118,0.54,65478,,32147,1,1,1,0,3,Bubblegum Tax > Threshold ; High Confectionary Sales Tax ; Salary or Revenue is Blank
+Crispy Corp,100012,3254,13.94,333369,9.95,32589,587969,35478,0,1,0,1,2,Audit Overdue ; High Confectionary Sales Tax
+Sweets & Co,100013,12,5.04,135914,9.95,56478,875914,,1,0,0,1,2,Audit Overdue ; Salary or Revenue is Blank
+Choco Candy Ltd,100014,3657,7,675392,3.47,45789,695392,13895,0,0,0,0,0,
